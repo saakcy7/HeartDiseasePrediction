@@ -126,4 +126,4 @@ based on user medical inputs.
 
 # Author
 
-Your Name
+Sakshi K.C.
