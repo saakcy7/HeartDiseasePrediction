@@ -59,19 +59,9 @@ HeartDiseasePrediction/
 │
 ├── dataset/
 │   └── heart.csv
-│
-├── figures/
-│   ├── architecture.png
-│   ├── confusion_matrix.png
-│   ├── correlation_matrix.png
-│   └── target_distribution.png
-│
 ├── main.py
-├── model.py
 ├── app.py
 ├── requirements.txt
-├── README.md
-└── report.tex
 ```
 
 ---
