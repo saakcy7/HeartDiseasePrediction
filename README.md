@@ -71,7 +71,7 @@ HeartDiseasePrediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/HeartDiseasePrediction.git
+git clone https://github.com/saakcy7/HeartDiseasePrediction.git
 ```
 
 Move into project folder:
